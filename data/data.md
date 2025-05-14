@@ -1,5 +1,3 @@
-Here are the direct download links for the facial expression datasets you requested (some require registration or approval):
-
 1. CK+ (Extended Cohn-Kanade)
 
 • Official application page:
