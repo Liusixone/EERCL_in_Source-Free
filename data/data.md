@@ -1,51 +1,59 @@
+Here are the direct download links for the facial expression datasets you requested (some require registration or approval):
 
+1. CK+ (Extended Cohn-Kanade)
 
-**1. CK+ (Extended Cohn-Kanade)**
-• 官方申请页面：  
+• Official application page:
+https://www.pitt.edu/~emotion/ck-spread.htm
 
-  `https://www.pitt.edu/~emotion/ck-spread.htm`  
-• 镜像下载（Kaggle）：  
+• Mirror download (Kaggle):
+https://www.kaggle.com/datasets/shawon10/ckplus
 
-  `https://www.kaggle.com/datasets/shawon10/ckplus`
+2. FER-2013
 
-**2. FER-2013**
-• Kaggle 官方下载：  
+• Official Kaggle download:
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
-  `https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data`  
-• 论文附带数据：  
+• Dataset from paper:
+https://arxiv.org/abs/1307.0414 (check paper references)
 
-  `https://arxiv.org/abs/1307.0414`（需从论文引用页获取）
+3. JAFFE
 
-**3. JAFFE**
-• 官方申请链接：  
+• Official application:
+http://www.kasrl.org/jaffe.html
 
-  `http://www.kasrl.org/jaffe.html`  
-• 直接下载（Kaggle）：  
+• Direct download (Kaggle):
+https://www.kaggle.com/datasets/rituparnajha/jaffe-dataset
 
-  `https://www.kaggle.com/datasets/rituparnajha/jaffe-dataset`
+4. SFEW 2.0 (Static Facial Expressions in the Wild)
 
-**4. SFEW 2.0 (Static Facial Expressions in the Wild)**
-• 官方下载（需注册）：  
+• Official download (requires registration):
+https://cs.anu.edu.au/few/AFEW.html
 
-  `https://cs.anu.edu.au/few/AFEW.html`  
-• 备用链接（非官方）：  
+• Alternative link (unofficial):
+https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset
 
-  `https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset`
+5. RAF-DB (Real-world Affective Faces)
 
-**5. RAF-DB (Real-world Affective Faces)**
-• 官方申请：  
+• Official application:
+http://www.whdeng.cn/raf/model1.html
 
-  `http://www.whdeng.cn/raf/model1.html`  
-• 子集下载（HappyWhale）：  
+• Subset download (HappyWhale):
+https://www.kaggle.com/datasets/aadityasinghal/raf-db
 
-  `https://www.kaggle.com/datasets/aadityasinghal/raf-db`
+6. ExpW (Expression in-the-Wild)
 
-**6. ExpW (Expression in-the-Wild)**
-• 官方下载（Google Drive）：  
+• Official Google Drive download:
+https://drive.google.com/drive/folders/0B5eBtkemF0FGR3pQc1FqLWpja0k
 
-  `https://drive.google.com/drive/folders/0B5eBtkemF0FGR3pQc1FqLWpja0k`  
-• 标注文件：  
+• Annotation files:
+https://mmlab.ie.cuhk.edu.hk/projects/socialrelation/index.html
 
-  `https://mmlab.ie.cuhk.edu.hk/projects/socialrelation/index.html`
+Notes
 
----
+1. Some links require registration/research approval (e.g., CK+, RAF-DB)
+
+2. Kaggle mirrors: Unofficial but provide direct downloads (Kaggle account required)
+
+3. Google Drive links: May require VPN access
+
+Let me know if you need preprocessing scripts or usage guidance for any specific dataset!
