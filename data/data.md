@@ -48,12 +48,3 @@ https://drive.google.com/drive/folders/0B5eBtkemF0FGR3pQc1FqLWpja0k
 • Annotation files:
 https://mmlab.ie.cuhk.edu.hk/projects/socialrelation/index.html
 
-Notes
-
-1. Some links require registration/research approval (e.g., CK+, RAF-DB)
-
-2. Kaggle mirrors: Unofficial but provide direct downloads (Kaggle account required)
-
-3. Google Drive links: May require VPN access
-
-Let me know if you need preprocessing scripts or usage guidance for any specific dataset!
