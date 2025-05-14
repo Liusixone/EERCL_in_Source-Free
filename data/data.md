@@ -1,6 +1,4 @@
-以下是您需要的人脸表情数据集的直接下载链接（部分需申请或注册）：
 
----
 
 **1. CK+ (Extended Cohn-Kanade)**
 • 官方申请页面：  
@@ -51,10 +49,3 @@
   `https://mmlab.ie.cuhk.edu.hk/projects/socialrelation/index.html`
 
 ---
-
-**注意事项**
-1. 部分链接需要注册或填写研究协议（如 CK+、RAF-DB）。  
-2. Kaggle 镜像：非官方但可直接下载（需 Kaggle 账号）。  
-3. Google Drive 链接：可能需要科学上网。  
-
-如需具体数据集的预处理脚本或使用帮助，请告知！
