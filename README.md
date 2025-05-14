@@ -80,7 +80,7 @@ Below are the structure under **data**.
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.7
 - PyTorch 1.10+
 - 2+ NVIDIA GPUs (11GB+ VRAM recommended)
 
